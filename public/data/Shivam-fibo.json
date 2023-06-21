@@ -1,0 +1,13 @@
+{
+    "name": "Shivam Gupta",
+    "location": "Kanpur, India",
+    "bio": "Hi, I'm skilled Full Stack Developer passionate about creating efficient web applications, delivering excellence, and driving innovation. ",
+    "avatar": "https://github.com/Shivam-fibo.png",
+    "skills": ["Javascript", "React.js", "Node js" , "Python", "C++"],
+    "social": {
+      "GitHub": "https://github.com/Shivam-fiob",
+      "Twitter": "https://twitter.com/sg6418",
+      "LinkedIn": "https://www.linkedin.com/in/shivamgupta6418/"
+    }
+  }
+  
